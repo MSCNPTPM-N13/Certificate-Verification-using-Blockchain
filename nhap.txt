@@ -1,0 +1,4 @@
+truffle compile
+npm run deploy:local
+
+npm start
